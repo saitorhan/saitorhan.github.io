@@ -26,7 +26,7 @@ Tracky does not knowingly collect any personal information from children under t
 ### 5. Contact Us
 If you have any questions or concerns regarding this policy, please contact us at:
 
-**Email:** [SİZİN E-POSTA ADRESİNİZ]
+**Email:** saitorhan@yandex.com
 
 ---
 *© 2026 saitorhan. Built with GitHub Pages.*
